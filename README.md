@@ -2,7 +2,6 @@
 
 A modern SaaS web application that generates 10 on-brand tweets based on your brand's tone, personality, and communication style.
 
-![BrandTweet AI](https://2shkglwwjxwus.ok.kimi.link)
 
 ## Features
 
@@ -269,4 +268,3 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 ---
 
-**Live Demo**: [https://2shkglwwjxwus.ok.kimi.link](https://2shkglwwjxwus.ok.kimi.link)
